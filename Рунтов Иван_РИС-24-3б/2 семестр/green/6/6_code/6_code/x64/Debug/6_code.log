@@ -1,0 +1,3 @@
+﻿  6_code.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\green\6\6_code\6_code.cpp(25,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  6_code.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\green\6\6_code\x64\Debug\6_code.exe
