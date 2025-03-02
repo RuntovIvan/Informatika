@@ -2,7 +2,7 @@
 #include <clocale>
 using namespace std;
 
-const int row = 10, col = 10;
+const int row = 5, col = 6;
 
 void show_2d(int arr[][col], int row, int col);
 void show_1d(int arr[], int n);

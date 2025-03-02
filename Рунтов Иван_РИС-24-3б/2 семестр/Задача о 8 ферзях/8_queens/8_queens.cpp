@@ -22,9 +22,10 @@ void show()
 	for (int i = 0; i < size_arr; i++)
 	{
 		for (int j = 0; j < size_arr; j++)
-			cout << ((pole[i][j]) ? "! " : "# ");
+			cout << ((pole[i][j]) ? "Q " : "- ");
 		cout << endl;
 	}
+	cout << endl;
 }
 
 bool check(int row, int col)
@@ -61,6 +62,7 @@ void game(int row)
 		if (check(row, col))
 		{
 			pole[row][col] = 1;
+			show();
 			game(row + 1);
 			pole[row][col] = 0;
 		}
