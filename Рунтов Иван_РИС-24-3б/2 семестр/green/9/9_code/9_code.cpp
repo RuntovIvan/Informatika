@@ -17,7 +17,7 @@ int main()
     output("F1.txt");
     cout << endl;
     
-    cout << "Слово с наибольшим количеством цифр в первофм файле:" << endl;
+    cout << "Слово с наибольшим количеством цифр в первом файле:" << endl;
     num_max_dig("F1.txt");
     cout << endl;
 

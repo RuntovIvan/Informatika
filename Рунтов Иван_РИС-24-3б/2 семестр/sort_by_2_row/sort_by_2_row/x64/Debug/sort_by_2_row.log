@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\Study\Informatics\sort_by_2_row\main.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  sort_by_2_row.vcxproj -> D:\Study\Informatics\sort_by_2_row\x64\Debug\sort_by_2_row.exe

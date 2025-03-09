@@ -1,0 +1,3 @@
+﻿  hoare_sort.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\sort_methods\hoare_sort\hoare_sort.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  hoare_sort.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\sort_methods\hoare_sort\x64\Debug\hoare_sort.exe

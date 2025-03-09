@@ -1,0 +1,3 @@
+﻿  sort.cpp
+D:\Study\Informatics\sort_methods\sort.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sort_methods.vcxproj -> D:\Study\Informatics\sort_methods\x64\Debug\sort_methods.exe
