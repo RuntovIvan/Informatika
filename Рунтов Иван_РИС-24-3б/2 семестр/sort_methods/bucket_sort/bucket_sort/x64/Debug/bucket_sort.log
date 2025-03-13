@@ -1,0 +1,3 @@
+﻿  bucket_sort.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\sort_methods\bucket_sort\bucket_sort.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  bucket_sort.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\sort_methods\bucket_sort\x64\Debug\bucket_sort.exe

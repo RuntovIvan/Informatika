@@ -1,0 +1,3 @@
+﻿  merge_sort.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\sort_methods\merge_sort\merge_sort.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  merge_sort.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\sort_methods\merge_sort\x64\Debug\merge_sort.exe

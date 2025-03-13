@@ -9,7 +9,7 @@ int main()
 	setlocale(LC_ALL, "RU");
 
 	const int n = 10;
-	int arr[n] = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19};
+	int arr[n] = {1, 3, 5, 7, 7, 11, 13, 15, 17, 19};
 
 	cout << "Массив:\n";
 	for (int i = 0; i < n; i++)
