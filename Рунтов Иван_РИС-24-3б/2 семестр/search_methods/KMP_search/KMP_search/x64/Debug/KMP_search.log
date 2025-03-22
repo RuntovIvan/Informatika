@@ -1,0 +1,4 @@
+﻿  KMP_search.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\search_methods\KMP_search\KMP_search.cpp(60,14): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\search_methods\KMP_search\KMP_search.cpp(70,1): warning C4715: KMP_search: значение возвращается не при всех путях выполнения
+  KMP_search.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\search_methods\KMP_search\x64\Debug\KMP_search.exe

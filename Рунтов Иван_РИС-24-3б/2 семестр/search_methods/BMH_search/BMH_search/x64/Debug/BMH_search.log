@@ -1,0 +1,5 @@
+﻿  BMH_search.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\search_methods\BMH_search\BMH_search.cpp(31,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\search_methods\BMH_search\BMH_search.cpp(34,68): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\search_methods\BMH_search\BMH_search.cpp(43,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  BMH_search.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\search_methods\BMH_search\x64\Debug\BMH_search.exe
