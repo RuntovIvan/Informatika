@@ -28,6 +28,12 @@ void print_Salary(Salary t) // и здесь выполняется конструктор копирования
 int main()
 {
 	setlocale(LC_ALL, "RU");
+	system("chcp 1251");
+	system("cls");
+
+	Salary v1("hui", 100, 5);
+	Salary v2;
+	v2 = v1;
 
 	// конструктор без параметров
 	Salary s1;
