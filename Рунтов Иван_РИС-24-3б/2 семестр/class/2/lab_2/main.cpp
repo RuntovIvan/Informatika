@@ -31,10 +31,6 @@ int main()
 	system("chcp 1251");
 	system("cls");
 
-	Salary v1("hui", 100, 5);
-	Salary v2;
-	v2 = v1;
-
 	// конструктор без параметров
 	Salary s1;
 	s1.show();
