@@ -6,7 +6,7 @@ using namespace std;
 void show_arr(int* arr, int start, int end);
 int get_arr_size(string filename);
 void fill_arr(int* arr, int size, string filename);
-void merge_sort(int* arr, int start, int end);
+void balanced_sort(int* arr, int start, int end);
 void merge(int* arr, int start, int end, int mid);
 void arr_to_file(int* arr, int size, string filename);
 
@@ -20,7 +20,7 @@ int main()
 	fill_arr(arr, size, "F1.txt");
 	
 	show_arr(arr, 0, size - 1);
-	merge_sort(arr, 0, size - 1);
+	balanced_sort(arr, 0, size - 1);
 	show_arr(arr, 0, size - 1);
 	
 	arr_to_file(arr, size, "F2.txt");
@@ -55,16 +55,17 @@ int get_arr_size(string filename)
 	return count;
 }
 
-void merge_sort(int* arr, int start, int end)
+void balanced_sort(int* arr, int start, int end)
 {
 	if (start >= end)
 		return;
 
 	int mid = (start + end) / 2;
 
-	merge_sort(arr, start, mid);
-	merge_sort(arr, mid + 1, end);
+	balanced_sort(arr, start, mid);
+	balanced_sort(arr, mid + 1, end);
 	merge(arr, start, end, mid);
+	show_arr(arr, start, end);
 }
 
 void merge(int* arr, int start, int end, int mid)
