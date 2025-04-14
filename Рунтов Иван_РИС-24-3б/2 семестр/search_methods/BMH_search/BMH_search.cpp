@@ -44,7 +44,7 @@ void BMH_search(string str, string obraz)
 			if (str[i + sdvig] != obraz[i])
 			{
 				flag = false;
-				sdvig += table[static_cast<unsigned char>(str[i])];
+				sdvig += table[static_cast<unsigned char>(str[i + sdvig])];
 			}
 		if (flag == true)
 		{

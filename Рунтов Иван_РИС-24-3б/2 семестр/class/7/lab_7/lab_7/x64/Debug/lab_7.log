@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\7\lab_7\main.cpp(24,27): warning C4305: аргумент: усечение из "double" в "T"
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\7\lab_7\main.cpp(24,27): warning C4305:         with
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\7\lab_7\main.cpp(24,27): warning C4305:         [
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\7\lab_7\main.cpp(24,27): warning C4305:             T=float
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\7\lab_7\main.cpp(24,27): warning C4305:         ]
+  lab_7.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\7\lab_7\x64\Debug\lab_7.exe

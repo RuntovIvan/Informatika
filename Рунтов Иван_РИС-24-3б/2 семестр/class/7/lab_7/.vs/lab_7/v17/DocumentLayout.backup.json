@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{173B4C26-DDA2-4F4F-80D7-C653AC4EA501}|lab_7.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{173B4C26-DDA2-4F4F-80D7-C653AC4EA501}|lab_7.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173B4C26-DDA2-4F4F-80D7-C653AC4EA501}|lab_7.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{173B4C26-DDA2-4F4F-80D7-C653AC4EA501}|lab_7.vcxproj|solutionrelative:List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173B4C26-DDA2-4F4F-80D7-C653AC4EA501}|lab_7.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\Pair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{173B4C26-DDA2-4F4F-80D7-C653AC4EA501}|lab_7.vcxproj|solutionrelative:Pair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173B4C26-DDA2-4F4F-80D7-C653AC4EA501}|lab_7.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\Pair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{173B4C26-DDA2-4F4F-80D7-C653AC4EA501}|lab_7.vcxproj|solutionrelative:Pair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T15:53:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.h",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\List.h",
+              "RelativeDocumentMoniker": "List.h",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\List.h",
+              "RelativeToolTip": "List.h",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAM8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-04T14:21:21.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pair.cpp",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\Pair.cpp",
+              "RelativeDocumentMoniker": "Pair.cpp",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\Pair.cpp*",
+              "RelativeToolTip": "Pair.cpp*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T15:31:31.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pair.h",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\Pair.h",
+              "RelativeDocumentMoniker": "Pair.h",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\class\\7\\lab_7\\Pair.h",
+              "RelativeToolTip": "Pair.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-04T15:23:50.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
