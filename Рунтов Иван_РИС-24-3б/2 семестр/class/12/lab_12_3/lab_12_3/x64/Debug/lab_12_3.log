@@ -1,0 +1,49 @@
+﻿  main.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\main.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(34,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+      D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(34,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\main.cpp(12,18):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Container<Pair>"
+          D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(27,1):
+          во время компиляции функции-члена класс шаблон "Container<Pair>::Container(int)"
+              D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\main.cpp(12,19):
+              см. первую ссылку на "Container<Pair>::Container" в "main"
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(64,21): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+      D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(64,21):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(60,1):
+          во время компиляции функции-члена класс шаблон "T Container<T>::srednee(void)"
+          with
+          [
+              T=Pair
+          ]
+              D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\main.cpp(16,52):
+              см. первую ссылку на "Container<Pair>::srednee" в "main"
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(86,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+      D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(86,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(76,1):
+          во время компиляции функции-члена класс шаблон "void Container<Pair>::erase_by_key(T,int,int)"
+          with
+          [
+              T=Pair
+          ]
+              D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\main.cpp(29,16):
+              см. первую ссылку на "Container<Pair>::erase_by_key" в "main"
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(109,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+      D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(109,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\Container.h(91,1):
+          во время компиляции функции-члена класс шаблон "void Container<Pair>::add_min_max(void)"
+              D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\main.cpp(33,15):
+              см. первую ссылку на "Container<Pair>::add_min_max" в "main"
+  
+  lab_12_3.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_3\x64\Debug\lab_12_3.exe

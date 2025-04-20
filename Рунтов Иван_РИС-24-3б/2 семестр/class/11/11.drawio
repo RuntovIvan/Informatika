@@ -1,0 +1,98 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2" pages="3">
+  <diagram name="Pair" id="cSU01bo59TxgYbbW23hq">
+    <mxGraphModel dx="992" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tq6M2M1K0o4i9ijsdl4l-1" value="Pair" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="tq6M2M1K0o4i9ijsdl4l-2" value="&lt;div&gt;- first :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- second :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;double&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tq6M2M1K0o4i9ijsdl4l-1">
+          <mxGeometry y="26" width="200" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tq6M2M1K0o4i9ijsdl4l-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="tq6M2M1K0o4i9ijsdl4l-1">
+          <mxGeometry y="60" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="tq6M2M1K0o4i9ijsdl4l-4" value="&lt;div&gt;+ Pair()&lt;/div&gt;&lt;div&gt;+ Pair(F :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, S :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;double&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ Pair(p :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;const Pair&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ get_first() :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ get_second() :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;double&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ set_first(F :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ set_second(S :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;double&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ operator=(p :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;const Pair&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pair&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ operator==(p :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;const Pair&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;bool&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ operator&amp;gt;(p :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;const Pair&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&amp;nbsp; :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;bool&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ operator&amp;lt;(p :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;const Pair&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;bool&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ operator+(p :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;const Pair&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pair&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ operator/(n :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;const int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pair&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tq6M2M1K0o4i9ijsdl4l-1">
+          <mxGeometry y="68" width="200" height="202" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qtC9-sDtFu73cyxSbHFl" name="lab_11_3">
+    <mxGraphModel dx="1290" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-1" value="List" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-2" value="&lt;div&gt;+ lst :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;list&amp;lt;T&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ size :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pxc2SGqmAGwCs2fQ3bWY-1">
+          <mxGeometry y="26" width="280" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="pxc2SGqmAGwCs2fQ3bWY-1">
+          <mxGeometry y="60" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-4" value="&lt;div&gt;+ List()&lt;/div&gt;&lt;div&gt;+ List(n :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ ~List()&lt;/div&gt;&lt;div&gt;+ show() :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ srednee() :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ add(data :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ erase_by_key(key :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, start :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, end :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ add_min_max() :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pxc2SGqmAGwCs2fQ3bWY-1">
+          <mxGeometry y="68" width="280" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-5" value="T" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-6" value="list" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="245" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-7" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.497;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pxc2SGqmAGwCs2fQ3bWY-6" target="pxc2SGqmAGwCs2fQ3bWY-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="300" as="sourcePoint" />
+            <mxPoint x="310" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-8" value="&amp;lt;T -&amp;gt; Pair&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="268" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pxc2SGqmAGwCs2fQ3bWY-9" value="list : List&amp;lt;T -&amp;gt; Pair&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8YaK9W1Eq-eygOjGeLg_" name="lab_11_5">
+    <mxGraphModel dx="956" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VmV6wMs_fVrB392CjlR4-1" value="List" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VmV6wMs_fVrB392CjlR4-2" value="&lt;div&gt;- pq :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;priority_queue&amp;lt;T&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- size :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- copy_vec_to_pq(v :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;vector&amp;lt;T&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;priority_queue&amp;lt;T&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- copy_pq_to_vec(q :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;priority_queue&amp;lt;T&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;vector&amp;lt;T&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VmV6wMs_fVrB392CjlR4-1">
+          <mxGeometry y="26" width="310" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="VmV6wMs_fVrB392CjlR4-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="VmV6wMs_fVrB392CjlR4-1">
+          <mxGeometry y="100" width="310" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VmV6wMs_fVrB392CjlR4-4" value="&lt;div&gt;+ List()&lt;/div&gt;&lt;div&gt;+ List(n :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ ~List()&lt;/div&gt;&lt;div&gt;+ show() :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ srednee() :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ add(data :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ erase_by_key(key :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, start :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, end :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ add_min_max() :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VmV6wMs_fVrB392CjlR4-1">
+          <mxGeometry y="108" width="310" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="3mBtd4KRq-X8CTNtpSgp-1" value="T" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mBtd4KRq-X8CTNtpSgp-2" value="lst" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mBtd4KRq-X8CTNtpSgp-3" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.496;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3mBtd4KRq-X8CTNtpSgp-2" target="VmV6wMs_fVrB392CjlR4-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="320" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3mBtd4KRq-X8CTNtpSgp-4" value="lst : List &amp;lt;T -&amp;gt; Pair&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="225" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mBtd4KRq-X8CTNtpSgp-8" value="&amp;lt;T -&amp;gt; Pair&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="308" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_2\main.cpp(34,21): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_2\main.cpp(75,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_12_2.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\12\lab_12_2\x64\Debug\lab_12_2.exe

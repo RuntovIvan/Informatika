@@ -1,0 +1,57 @@
+﻿  main.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\13\lab_13_3\main.cpp(32,20): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\13\lab_13_3\main.cpp(66,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(276,16): warning C4267: инициализация: преобразование из "size_t" в "_Ty1"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(276,16): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(276,16): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(276,16): warning C4267:             _Ty1=const int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(276,16): warning C4267:         ]
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(276,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\13\lab_13_3\main.cpp(73,4):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,Pair>>>>,bool> std::map<int,Pair,std::less<int>,std::allocator<std::pair<const int,Pair>>>::insert<std::pair<unsigned __int64,Pair>,0>(_Valty &&)"
+          with
+          [
+              _Valty=std::pair<unsigned __int64,Pair>
+          ]
+              D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\13\lab_13_3\main.cpp(73,10):
+              см. первую ссылку на "std::map<int,Pair,std::less<int>,std::allocator<std::pair<const int,Pair>>>::insert" в "main"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\map(186,22):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,Pair>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<unsigned __int64,Pair>>(std::pair<unsigned __int64,Pair> &&)"
+          with
+          [
+              _Kty=int,
+              _Ty=Pair,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,Pair>>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xtree(1024,30):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<std::_Tree_node<std::pair<const int,Pair>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<unsigned __int64,Pair>>(std::pair<unsigned __int64,Pair> &&)"
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,Pair>>,
+              _Kty=int,
+              _Ty=Pair,
+              _Pr=std::less<int>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xtree(1002,46):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,Pair>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const int,Pair>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)"
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,Pair>>,
+              _Ty=std::pair<unsigned __int64,Pair>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,Pair>,std::_Default_allocator_traits<std::allocator<std::pair<const int,Pair>>>::void_pointer>>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xtree(806,25):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<unsigned __int64,Pair>>(_Alloc &,_Objty *const ,std::pair<unsigned __int64,Pair> &&)"
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,Pair>,std::_Default_allocator_traits<std::allocator<std::pair<const int,Pair>>>::void_pointer>>,
+              _Ty=std::pair<const int,Pair>,
+              _Objty=std::pair<const int,Pair>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,103):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const int,Pair>::pair<unsigned __int64,Pair,0>(std::pair<unsigned __int64,Pair> &&) noexcept(false)"
+  
+  lab_13_3.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\class\13\lab_13_3\x64\Debug\lab_13_3.exe
