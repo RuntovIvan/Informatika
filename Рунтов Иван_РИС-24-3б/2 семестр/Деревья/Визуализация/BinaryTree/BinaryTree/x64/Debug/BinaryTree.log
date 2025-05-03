@@ -1,0 +1,9 @@
+﻿  TreeDraw.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Деревья\Визуализация\BinaryTree\TreeDraw.h(398,80): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "TreeDraw.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Деревья\Визуализация\BinaryTree\TreeDraw.h(424,80): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "TreeDraw.cpp")
+  
+  Binary_Tree.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BinaryTree.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Деревья\Визуализация\BinaryTree\x64\Debug\BinaryTree.exe
