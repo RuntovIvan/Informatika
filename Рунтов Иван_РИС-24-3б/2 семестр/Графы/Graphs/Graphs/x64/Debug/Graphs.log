@@ -1,0 +1,54 @@
+﻿  Graph.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\Graph.h(31,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Graph.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\Graph.h(32,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Graph.cpp")
+  
+  GraphDrawing.cpp
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\Graph.h(31,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\Graph.h(32,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1035,12): warning C4101: message: неиспользованная локальная переменная
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1082,12): warning C4101: message: неиспользованная локальная переменная
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1207,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1208,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1240,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1241,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1243,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1270,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1271,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1273,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1293,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.h(1294,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "GraphDrawing.cpp")
+  
+D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\GraphDrawing.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Graph.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Graphs.vcxproj -> D:\Study\Informatics\Домашние работы\Рунтов Иван_РИС-24-3б\2 семестр\Графы\Graphs\x64\Debug\Graphs.exe

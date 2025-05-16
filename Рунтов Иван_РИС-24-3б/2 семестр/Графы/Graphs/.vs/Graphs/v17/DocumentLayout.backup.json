@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|solutionrelative:GraphDrawing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|solutionrelative:Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|solutionrelative:Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|solutionrelative:GraphDrawing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59FA1493-83ED-0674-7396-197F42CE4A57}|Graphs.vcxproj|solutionrelative:GraphDrawing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraphDrawing.cpp",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.cpp",
+              "RelativeDocumentMoniker": "GraphDrawing.cpp",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.cpp",
+              "RelativeToolTip": "GraphDrawing.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T17:29:31.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphDrawing.h",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.h",
+              "RelativeDocumentMoniker": "GraphDrawing.h",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.h",
+              "RelativeToolTip": "GraphDrawing.h",
+              "ViewState": "AgIAAMMEAAAAAAAAAAAAAC0FAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T17:29:17.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphDrawing.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.h",
+              "RelativeDocumentMoniker": "GraphDrawing.h",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\GraphDrawing.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GraphDrawing.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T03:36:48.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\Graph.cpp",
+              "RelativeDocumentMoniker": "Graph.cpp",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\Graph.cpp",
+              "RelativeToolTip": "Graph.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T17:28:00.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.h",
+              "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\Graph.h",
+              "RelativeDocumentMoniker": "Graph.h",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0413\u0440\u0430\u0444\u044B\\Graphs\\Graph.h",
+              "RelativeToolTip": "Graph.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T17:27:35.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

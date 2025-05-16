@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "interpolation_search.cpp",
               "DocumentMoniker": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\search_methods\\interpolation_search\\interpolation_search.cpp",
               "RelativeDocumentMoniker": "interpolation_search.cpp",
-              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\search_methods\\interpolation_search\\interpolation_search.cpp*",
-              "RelativeToolTip": "interpolation_search.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\Study\\Informatics\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u0420\u0443\u043D\u0442\u043E\u0432 \u0418\u0432\u0430\u043D_\u0420\u0418\u0421-24-3\u0431\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\search_methods\\interpolation_search\\interpolation_search.cpp",
+              "RelativeToolTip": "interpolation_search.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-10T15:53:28.278Z",
               "EditorCaption": ""

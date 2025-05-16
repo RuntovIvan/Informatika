@@ -58,7 +58,7 @@ namespace BinaryTree {
 	private:
 		Binary_Tree* tree = new Binary_Tree;
 		float rad = 15;
-		double shift_x = 50;
+		double shift_x = 30;
 		double shift_y = 25;
 
 	protected:
